@@ -5,5 +5,6 @@ int main(){
     std::cout << "Hamlo!!!" << std::endl;
     std::cout << "Photoshop" << std::endl;
     std::cout << "Last line" << std::endl;
+    std::cout << "Mau" << std::endl;
     return 0;
 }
