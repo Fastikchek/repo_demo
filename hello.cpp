@@ -1,5 +1,9 @@
 #include <iostream>
 
+int sum (int a, int b){
+    return a + b;
+}
+
 int main(){
     std::cout << "Firsst line" << std::endl;
     std::cout << "Hamlo!!!" << std::endl;
